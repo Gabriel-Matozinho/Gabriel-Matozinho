@@ -3,6 +3,6 @@
 
 - 💼 Hoje trabalho como Faturista/Gerente de dados na empresa Zellus
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- ⚡ Fatos sobre mim: Amo esportes, filmes(terror, ficção e comédia romática), jogos eletrônicos(RTS), música, viajar pelo Brasil e livros.
+- ⚡ Fatos sobre mim: Amo esportes, filmes(terror, ficção e comédia romática), jogos eletrônicos(RTS), música, viajar pelo Brasil.
 - 🐶 Amando e cuidando da Luna e da Suzy 🐾🐾
 
