@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Gabriel Matozinho Pereira🍀😁</h1>
-<h4 align="center">Atualmente estou em uma transição de carreira, abandonei o meio jurídico para buscar trabalhar com o que amo - tecnologia - e me especialaizar em me tornar um desenvolvedor Back-end..</h4>
+<h4 align="center">Atualmente estou em uma transição de carreira, abandonei o meio jurídico para buscar trabalhar com o que amo - tecnologia - e me especializar em me tornar um desenvolvedor Back-end.</h4>
 
 - 💼 Hoje trabalho como Faturista/Gerente de dados na empresa Zellus
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
