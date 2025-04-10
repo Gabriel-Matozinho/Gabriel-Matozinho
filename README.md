@@ -3,7 +3,9 @@
 
 🌟 Sobre Mim
 
-Olá! Sou Gabriel Matozinho Pereira, um entusiasta da tecnologia em transição de carreira. Após anos no setor jurídico, descobri minha verdadeira paixão em tecnologia e estou me especializando como desenvolvedor Back-end. Atualmente, trabalho como Faturista/Gerente de Dados na Zellus, onde aplico minhas habilidades em gestão de dados e tecnologia.</h4>
+Olá! Sou Gabriel Matozinho Pereira, um entusiasta da tecnologia em transição de carreira. Após anos no setor jurídico, descobri minha verdadeira paixão em tecnologia e estou me especializando como desenvolvedor Back-end.
+Profissional cursando Tecnologia em Análise e Desenvolvimento de Sistemas, graduado em Direito e pós-graduado em Direito do Consumidor. Experiência concentrada na área de tecnologia, com ênfase no desenvolvimento de sistemas, incluindo atividades de backend (.NET) e frontend (Angular/WebForms). Competências em trabalho em equipe, comunicação, organização e aprendizado contínuo, com destaque para a transição de carreira e o aperfeiçoamento de habilidades técnicas. Experiência prática no suporte ao desenvolvimento de funcionalidades, resolução de problemas e colaboração no refinamento de backlog de produto.
+.</h4>
 
 
 🚀 O que faço
@@ -17,7 +19,7 @@ Estudos: Atualmente cursando Análise e Desenvolvimento de Sistemas pela PUC Min
 
 🎯 Habilidades
 
-Linguagens: C#, SQL, Python
+Linguagens: C#, JavaScript, SQL, Python
 
 Ferramentas: .NET, GitHub, Power BI, Git
 
